@@ -5,5 +5,5 @@ Model: Convolutional Neural Network (CNN) designed to classify cornea images.
 
 Performance: Achieved 76% accuracy for blindness prediction on a custom dataset.
 
-Tech Stack: Python, TensorFlow/Keras (presumed from typical CNN workflows).
+Tech Stack: Python, TensorFlow/Keras.
 
